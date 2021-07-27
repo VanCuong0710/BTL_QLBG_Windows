@@ -193,7 +193,7 @@ namespace Nhom11_Quanlybangiay.NhapHang
 
 
                 //Paragraph parablank = new Paragraph(" ", font);
-                //tổng tiền
+                //tổng tiền aaaaaa
                 //Phrase phrase8 = new Phrase("Tổng tiền: " + lblthanhtien.Text, font);
                 //PdfPCell pdfPCell8 = new PdfPCell(phrase8);
                 //pdfPCell8.Border = iTextSharp.text.Rectangle.NO_BORDER;
